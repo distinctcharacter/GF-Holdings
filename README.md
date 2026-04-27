@@ -24,7 +24,7 @@ This repository contains the source code for the official web presence of Granit
 
 ## License
 
-© 2025 Granite Field Holdings, Ltd. Co. All rights reserved.
+© 2026 Granite Field Holdings, Ltd. Co. All rights reserved.
 
 Unauthorized reproduction, distribution, or modification of this codebase or its content is prohibited.
 
